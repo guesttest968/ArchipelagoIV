@@ -1,0 +1,17 @@
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\bin\x86\Debug\ArchipelagoIV.ivsdk.dll
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\bin\x86\Debug\ArchipelagoIV.ivsdk.pdb
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\bin\x86\Debug\IVSDKDotNetWrapper.dll
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\bin\x86\Debug\IVSDKDotNetWrapper.xml
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\obj\x86\Debug\ArchipelagoIV.csproj.AssemblyReference.cache
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\obj\x86\Debug\ArchipelagoIV.csproj.CoreCompileInputs.cache
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\obj\x86\Debug\Archipel.DE44B73B.Up2Date
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\obj\x86\Debug\ArchipelagoIV.ivsdk.dll
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\obj\x86\Debug\ArchipelagoIV.ivsdk.pdb
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\bin\x86\Debug\ClonksCodingLib.GTAIV.xml
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\bin\x86\Debug\Archipelago.MultiClient.Net.dll
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\bin\x86\Debug\Archipelago.MultiClient.Net.pdb
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\bin\x86\Debug\Archipelago.MultiClient.Net.xml
+C:\Users\Blob\source\repos\ClassLibrary1\ClassLibrary1\bin\x86\Debug\ClonksCodingLib.GTAIV.dll
+D:\Games\Grand Theft Auto IV - The Complete Edition\IVSDKDotNet\scripts\ArchipelagoIV.ivsdk.dll
+D:\Games\Grand Theft Auto IV - The Complete Edition\IVSDKDotNet\scripts\ArchipelagoIV.ivsdk.pdb
