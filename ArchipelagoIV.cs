@@ -1249,22 +1249,11 @@ public class Main : Script // <- It's very important that we add ": Script" here
                 int weapontype;
                 GET_CURRENT_CHAR_WEAPON(PlayerHandle, out weapontype);
 
-                SET_CHAR_AMMO(PlayerHandle, 4, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 5, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 6, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 7, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 9, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 10, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 11, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 12, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 13, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 14, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 15, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 16, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 17, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 18, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 19, randomammo);
-                SET_CHAR_AMMO(PlayerHandle, 20, randomammo);
+                SET_CHAR_AMMO(PlayerHandle, weapontype, randomammo);
+                for (int i = 4; i < 36; i++)
+                {
+                    SET_CHAR_AMMO(PlayerHandle, i, randomammo);
+                }
                 break;
 
             case 800110:
